@@ -14,6 +14,10 @@ public class StackSample {
         }
         System.out.println("Stack is empty");
     }
+<<<<<<< HEAD
 } 
     
 
+=======
+}
+>>>>>>> 2884e01cd6b3f1a4603ba4bfa8cf7cd39077afb9
